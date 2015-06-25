@@ -139,3 +139,4 @@
 
 # wifi
 /config/wifi(/.*)?                      u:object_r:wifi_config_file:s0
+
