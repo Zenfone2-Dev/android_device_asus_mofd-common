@@ -46,5 +46,7 @@ type asus_tee_device, dev_type;
 type sysfs_coretemp, fs_type, sysfs_type;
 type sysfs_thermal_writable, fs_type, sysfs_type;
 
+type gpu_pid_stats_file, fs_type, debugfs_type;
+
 # WiFi
 type wifi_config_file, file_type, data_file_type;
